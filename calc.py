@@ -79,7 +79,7 @@ while (True):
             print "Quotient: ", div(a, b)
 
 		elif (op == "%"):
-            print "Modulus: ", div(a, b)
+            print "Modulus: ", mod(a, b)
 
         elif (op == "**"):
             print "Exponent: ", exp(a, b)
